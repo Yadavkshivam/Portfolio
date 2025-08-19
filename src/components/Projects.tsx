@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const projects = [
     {
     title: "Code-Helper",
-    description: "etects programming language from user code and provides full, runnable solutions with clear explanations,output, and tips to avoid common errors",
+    description: "Detects programming language from user code and provides full, runnable solutions with clear explanations,output, and tips to avoid common errors",
     tech: ["HTML", "CSS", "JavaScript","React","REST_API","TailwindCSS","NodeJS"],
     github: "https://github.com/Yadavkshivam/Code-Helper",
   
