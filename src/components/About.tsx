@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
-import {  FaGithub, FaInstagram } from "react-icons/fa";
-import {  FaCode, FaHackerrank } from "react-icons/fa";
+import {  FaGithub } from "react-icons/fa";
+import {   FaHackerrank } from "react-icons/fa";
 import { SiLeetcode, SiCodechef, SiGeeksforgeeks,SiLinkedin, } from "react-icons/si";
 
 export default function About() {
