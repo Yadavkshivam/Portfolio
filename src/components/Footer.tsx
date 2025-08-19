@@ -4,7 +4,7 @@ import {
   FaLinkedin,
   FaGithub,
   FaTwitter,
-  FaInstagram,
+  
   FaMapMarkerAlt,
   FaEnvelope,
   FaPhone,
